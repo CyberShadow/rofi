@@ -65,6 +65,7 @@ SOURCES=\
 	source/dialogs/ssh.c\
 	source/dialogs/drun.c\
 	source/dialogs/dmenu.c\
+	source/dialogs/shared.c\
 	source/dialogs/combi.c\
 	source/dialogs/window.c\
 	source/dialogs/script.c\
@@ -103,6 +104,7 @@ SOURCES=\
 	include/dialogs/window.h\
 	include/dialogs/dialogs.h\
 	include/dialogs/help-keys.h\
+	include/dialogs/shared.h\
 	include/xkb.h\
 	include/xkb-internal.h
 
